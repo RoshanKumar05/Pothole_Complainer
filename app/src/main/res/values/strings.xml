@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PotholeComplainer</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="address">address</string>
+    <string name="state">state</string>
+    <string name="country">country</string>
+</resources>
